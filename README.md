@@ -1,5 +1,4 @@
-Hi, I'm Ethan Hawksley, a CS student in the UK.
-I use Linux, write Rust, and enjoy cybersecurity.
+Hi, I'm Ethan Hawksley, a CS student in the UK with a focus on systems programming and cybersecurity.
 
 You can find me at [hawksley.dev](https://hawksley.dev)
 

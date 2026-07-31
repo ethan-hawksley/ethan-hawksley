@@ -1,4 +1,4 @@
-Hi, I'm Ethan Hawksley, a CS student in the UK with a focus on systems programming and cybersecurity.
+Hi, I'm Ethan Hawksley, a Computer Science student in the UK with a focus on systems programming and cybersecurity.
 
 You can find me at [hawksley.dev](https://hawksley.dev)
 

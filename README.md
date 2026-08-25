@@ -16,9 +16,9 @@ You can find me at [hawksley.dev](https://hawksley.dev)
 ## Recent Blog Posts
 
 <!-- BLOG_START -->
-- **[My Experience with Hack Club Horizons Europa](https://hawksley.dev/blog/hack-club-horizons/)**<br/>I had a great time at a 3-day hackathon
+- **[My Experience with Hack Club Horizons Europa](https://hawksley.dev/blog/hack-club-horizons)**<br/>I had a great time at a 3-day hackathon
 
-- **[JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)**<br/>Everything you need to know about JSON-LD and how to implement it.
+- **[JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites)**<br/>Everything you need to know about JSON-LD and how to implement it.
 
 [View all posts (7)](https://hawksley.dev/blog/)
 <!-- BLOG_END -->

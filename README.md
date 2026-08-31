@@ -17,11 +17,11 @@ You can find me at [hawksley.dev](https://hawksley.dev)
 ## Recent Blog Posts
 
 <!-- BLOG_START -->
-- **[My Experience with Hack Club Horizons Europa](https://hawksley.dev/blog/hack-club-horizons)**<br/>I had a great time at a 3-day hackathon
+- **[How to get a free .arpa domain](https://hawksley.dev/blog/get-free-arpa-domain)**<br/>It only takes a few minutes to set up.
 
-- **[JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites)**<br/>Everything you need to know about JSON-LD and how to implement it.
+- **[My experience with Hack Club Horizons Europa](https://hawksley.dev/blog/hack-club-horizons)**<br/>I had a great time at a 3-day hackathon
 
-[View all posts (7)](https://hawksley.dev/blog/)
+[View all posts (8)](https://hawksley.dev/blog/)
 <!-- BLOG_END -->
 
 <!-- WEEK: 36 -->

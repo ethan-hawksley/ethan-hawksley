@@ -12,9 +12,9 @@ with urllib.request.urlopen(request) as response:
 
 new_blog_lines = []
 all_posts = feed.get('items', [])
-top_two_posts = all_posts[:2]
+last_three_posts = all_posts[:3]
 
-for post in top_two_posts:
+for post in last_three_posts:
     title = post['title']
     url = post['url']
     summary = post['summary']
